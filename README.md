@@ -5,3 +5,5 @@ Neste projeto, desenvolvi uma simulação de uma campanha de phishing básica, u
 É fundamental destacar que este é apenas um exemplo simplificado. Ataques de phishing reais podem envolver outras técnicas, como engenharia social, spoofing de e-mail e o uso de kits de phishing pré-configurados. Além disso, a coleta de dados pode ser realizada através de diversos métodos, incluindo o uso de cookies, web beacons e scripts maliciosos.
 
 Este projeto tem caráter exclusivamente educacional e não deve ser utilizado para realizar atividades ilícitas. A criação e utilização de ferramentas de hacking para fins maliciosos são crimes e podem resultar em graves consequências legais. Recomenda-se utilizar este projeto como base para aprender sobre segurança cibernética e desenvolver habilidades para identificar e evitar ataques de phishing.
+
+![image](https://github.com/user-attachments/assets/500fa7ac-cb5a-42ce-a02c-633e3a47b320)
