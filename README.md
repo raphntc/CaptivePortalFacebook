@@ -1,4 +1,4 @@
-# CaptivePortalFacebook
+# PhishingFacebook
 
 Neste projeto, desenvolvi uma simulação de uma campanha de phishing básica, utilizando tecnologias web como HTML, CSS e PHP. A página de login do Facebook foi escolhida como modelo para demonstrar como cibercriminosos podem criar sites falsos e coletar dados de usuários. Para armazenar as informações coletadas, implementei um banco de dados MySQL. A página simulada utiliza PHP para capturar os dados inseridos pelo usuário e enviá-los para o banco de dados. O banco de dados MySQL armazena as informações em uma tabela com campos como senha e endereço de e-mail.
 
