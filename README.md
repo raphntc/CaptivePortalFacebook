@@ -6,4 +6,4 @@ Neste projeto, desenvolvi uma simulação de uma campanha de phishing básica, u
 
 Este projeto tem caráter exclusivamente educacional e não deve ser utilizado para realizar atividades ilícitas. A criação e utilização de ferramentas de hacking para fins maliciosos são crimes e podem resultar em graves consequências legais. Recomenda-se utilizar este projeto como base para aprender sobre segurança cibernética e desenvolver habilidades para identificar e evitar ataques de phishing.
 
-![image](https://github.com/user-attachments/assets/500fa7ac-cb5a-42ce-a02c-633e3a47b320)
+![image](https://github.com/user-attachments/assets/41b3a3d3-b128-4f1c-a297-e75c787f652f)
